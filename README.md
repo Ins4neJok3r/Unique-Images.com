@@ -1,2 +1,1 @@
-# Unique-Images.com
-Dads Website
+Hey I'm Currently just using git hub to house my coding im currently making websites using html and css this one is for my dad so this one will be personal I dont mind people contributing because atm im building back up the basics of my coding knowledge =D I will be makin a repository for all my experiments. 
